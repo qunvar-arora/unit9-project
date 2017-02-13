@@ -1,0 +1,22 @@
+img {
+	max-width: 100%;
+}
+
+.existres {
+	margin: 0 auto;
+	width: 60%;
+}
+
+
+#map {
+	width: 100%;
+	height: 300px;
+}
+
+.review {
+	font-size: 36px;
+}
+
+.top-buffer {
+	margin-top: 40px;
+}
